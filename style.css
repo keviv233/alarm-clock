@@ -17,8 +17,8 @@ body {
 }
 
 .container {
-    width: 100%;
-    max-width: 550px !important;
+    /* width: 100%; */
+    width: 550px !important;
     height: 470px;
     background-color: white;
     border-radius: 10px;
@@ -74,6 +74,7 @@ option {
 .setAlarm {
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    gap: 15px;
 }
