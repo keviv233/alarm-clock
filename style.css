@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    transition: all .3s ease;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-color: rgb(157, 63, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+    max-width: 550px !important;
+    height: 470px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 40px;
+    scale: 45%;
+}
+
+.time {
+    font-size: 450%;
+    margin-block: 10px;
+}
+
+select {
+    width: 150px;
+    height: 70px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border: 2px solid rgba(157, 63, 220, 0.879);
+    font-size: 200%;
+    color: blueviolet;
+    -webkit-appearance: none;
+    outline: none;
+}
+
+option {
+    border-radius: 20px;
+    font-size: 13px;
+}
+
+.set-alarm {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(157, 63, 220);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+}
+
+.set-alarm:hover {
+    background-color: rgb(129, 31, 138);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.setAlarm {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
