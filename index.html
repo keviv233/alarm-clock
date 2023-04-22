@@ -9,11 +9,11 @@
 </head>
 <body>
     <div class="container">
-        <img src="assets/clock.svg" alt="">
-        <div class="time">12:15:30 PM</div>
+        <img class="ring" src="assets/clock.svg" alt="">
+        <div class="time"></div>
         <div class="setAlarm">
             <select name="" id="hour">
-                <option value="1">1</option>
+                <option value="00">Hour</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
                 <option value="4">4</option>
@@ -27,6 +27,7 @@
                 <option value="12">12</option>
             </select>
             <select name="" id="min">
+                <option value="00">Minute</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -88,9 +89,9 @@
                 <option value="59">59</option>
                 <option value="60">60</option>
             </select>
-            <select name="" id="ampm">
-                <option value="am">AM</option>
-                <option value="pm">PM</option>
+            <select name="" id="meridiem">
+                <option value="AM">AM</option>
+                <option value="PM">PM</option>
             </select>
         </div>
         <div class="set-alarm">Set Alarm</div>

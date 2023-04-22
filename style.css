@@ -65,6 +65,11 @@ option {
     color: white;
 }
 
+.disable {
+    pointer-events: none;
+    opacity: 60%;
+}
+
 .set-alarm:hover {
     background-color: rgb(129, 31, 138);
     color: rgb(255, 255, 255);
@@ -79,12 +84,27 @@ option {
     gap: 15px;
 }
 
+.ringing {
+    animation: ring .15s infinite ease-in-out;
+}
+
+@keyframes ring {
+    0% {
+        rotate: 0deg;
+    }
+    50% {
+        rotate: 10deg;
+    }
+    100% {
+        rotate: -10deg;
+    }
+}
+
 @media all and (max-width: 300px) {
     .container {
         scale: 40%;
     }
-
-    ..setAlarm {
+    .setAlarm {
         justify-content: space-between;
     }
 }
