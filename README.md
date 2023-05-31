@@ -2,6 +2,17 @@
 
 Welcome to the Alarm Clock project! This project features an alarm clock application that displays the current time and allows you to set an alarm. When the alarm time is reached, the application plays a beep sound accompanied by a beautiful animation of a vibrating clock image. The beep sound automatically stops after 17 seconds, but you can also manually stop it by clicking the "Clear" button.
 
+<br>
+
+## Topics Covered
+
+- Current time display
+- Alarm time input (hour, minute, AM/PM)
+- Setting alarm
+- Beep sound
+- Animation (vibrating clock image)
+
+<br>
 
 ## Features
 
@@ -11,6 +22,7 @@ Welcome to the Alarm Clock project! This project features an alarm clock applica
 - Automatically stop the beep sound after 17 seconds.
 - Manually stop the beep sound by clicking the "Clear" button.
 
+<br>
 
 ## Getting Started
 
@@ -20,6 +32,7 @@ To get started with the Alarm Clock application, follow these steps:
 2. Open the project directory in your preferred code editor.
 3. Launch the `index.html` file in a web browser.
 
+<br>
 
 ## Usage
 
@@ -29,16 +42,19 @@ To get started with the Alarm Clock application, follow these steps:
 4. When the alarm time is reached, the application will play a beep sound and display a vibrating clock animation.
 5. The beep sound will automatically stop after 17 seconds. You can also manually stop it by clicking the "Clear" button.
 
+<br>
 
 ## Customization
 
 Feel free to customize the application according to your preferences. You can modify the styling, colors, or layout by editing the CSS files. Additionally, you can enhance the animation or add additional features to enhance the alarm clock experience.
 
+<br>
 
 ## Contributing
 
 Contributions to this project are always welcome! If you have any suggestions, bug reports, or want to add new features, feel free to open an issue or submit a pull request.
 
+<br>
 
 ## Contact
 
