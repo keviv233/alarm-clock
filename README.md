@@ -10,6 +10,19 @@ Welcome to the Alarm Clock project! This project features an alarm clock applica
 - Automatically stop the beep sound after 17 seconds.
 - Manually stop the beep sound by clicking the "Clear" button.
 
+## Topics Covered
+
+- Word guessing
+- Winning condition
+- Losing condition
+- Incorrect guesses
+- Hint feature
+- Multiple levels
+- User input validation
+- Displaying game status
+- Visual effects
+- Game progression
+
 ## Getting Started
 
 To get started with the Alarm Clock application, follow these steps:
