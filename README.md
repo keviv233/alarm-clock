@@ -2,6 +2,7 @@
 
 Welcome to the Alarm Clock project! This project features an alarm clock application that displays the current time and allows you to set an alarm. When the alarm time is reached, the application plays a beep sound accompanied by a beautiful animation of a vibrating clock image. The beep sound automatically stops after 17 seconds, but you can also manually stop it by clicking the "Clear" button.
 
+
 ## Features
 
 - Display the current time in a user-friendly format.
@@ -9,6 +10,7 @@ Welcome to the Alarm Clock project! This project features an alarm clock applica
 - Play a beep sound and display a vibrating clock animation when the alarm time is reached.
 - Automatically stop the beep sound after 17 seconds.
 - Manually stop the beep sound by clicking the "Clear" button.
+
 
 ## Topics Covered
 
@@ -23,6 +25,7 @@ Welcome to the Alarm Clock project! This project features an alarm clock applica
 - Visual effects
 - Game progression
 
+
 ## Getting Started
 
 To get started with the Alarm Clock application, follow these steps:
@@ -30,6 +33,7 @@ To get started with the Alarm Clock application, follow these steps:
 1. Clone or download the project repository to your local machine.
 2. Open the project directory in your preferred code editor.
 3. Launch the `index.html` file in a web browser.
+
 
 ## Usage
 
@@ -39,13 +43,16 @@ To get started with the Alarm Clock application, follow these steps:
 4. When the alarm time is reached, the application will play a beep sound and display a vibrating clock animation.
 5. The beep sound will automatically stop after 17 seconds. You can also manually stop it by clicking the "Clear" button.
 
+
 ## Customization
 
 Feel free to customize the application according to your preferences. You can modify the styling, colors, or layout by editing the CSS files. Additionally, you can enhance the animation or add additional features to enhance the alarm clock experience.
 
+
 ## Contributing
 
 Contributions to this project are always welcome! If you have any suggestions, bug reports, or want to add new features, feel free to open an issue or submit a pull request.
+
 
 ## Contact
 
